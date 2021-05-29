@@ -1,9 +1,10 @@
-# Static Parallax Website of Mahadev
+# Static Parallax Website
 
+![Website Screenshot](./asset/website-screenshot.png)
 
 ### Tech Stack:
 - [GSAP](https://greensock.com/gsap/)
 - [Scroll Magic](https://scrollmagic.io/)
 - HTML, JavaScript, CSS
 
-### [Live Link](https://thearpitanand.github.io/static-parallax-website/)
+#### [Webiste Link](https://thearpitanand.github.io/static-parallax-website/)
